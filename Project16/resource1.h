@@ -1,0 +1,124 @@
+//{{NO_DEPENDENCIES}}
+// Archivo de inclusión generado de Microsoft Visual C++.
+// Usado por Project16.rc
+//
+#define ID_MENU                         3
+#define ID_CreateUser                   5
+#define ID_LOGING                       101
+#define IDM_Menu_Op                     112
+#define ID_AltaService                  113
+#define ID_MenuOptions                  115
+#define ID_AltaMecanico                 117
+#define CT_UserCheck                    1001
+#define CT_PassCheck                    1002
+#define CT_IN_USER                      1006
+#define CT_IN_NAME                      1008
+#define ID_AltaCitas                    1008
+#define CT_IN_PASS                      1010
+#define BTN_CheckIn                     1011
+#define CT_Price                        1013
+#define CT_Desc                         1014
+#define CT_Clave                        1015
+#define BTN_AltaServ                    1016
+#define CT_NumEmpl                      1017
+#define CT_NombreMec                    1018
+#define CMB_Turn                        1019
+#define ID_Phone                        1021
+#define ID_Especialidad                 1022
+#define BTN_RegMec                      1029
+#define ID_CB_Lun                       1030
+#define ID_CB_Mar                       1031
+#define ID_CB_mier                      1032
+#define ID_CB_Jue                       1033
+#define ID_CB_Vier                      1034
+#define ID_CB_Sab                       1035
+#define IDC_STATIC_USERCHECK            1036
+#define ID_STATIC_Nombre                1037
+#define IDC_STATIC_USUARIO              1038
+#define IDC_STATIC_Pass                 1039
+#define IDC_STATIC_Clave                1040
+#define IDC_STATIC_Desc                 1041
+#define IDC_STATIC_Nmec                 1042
+#define IDC_STATIC_phone                1043
+#define BIT_image                       1044
+#define BTN_BitLoad                     1046
+#define CMB_claveesp                    1047
+#define CT_NameClient                   1048
+#define IDC_STATICn                     1049
+#define CT_Apellido1                    1050
+#define ID_STATIC_ap1                   1051
+#define CT_Apellido2                    1053
+#define CT_PLACAS                       1055
+#define CT_MARCA                        1057
+#define IDC_STATIC_MARC                 1058
+#define CT_MODEL                        1059
+#define IDC_STATIC_mod                  1060
+#define CT_CARYEAR                      1062
+#define ID_STATIC_CY                    1063
+#define CT_KILO                         1064
+#define IDC_STATIC_K                    1065
+#define CT_PHONECL                      1066
+#define IDC_STATIC_PCL                  1067
+#define CT_CALLE                        1068
+#define CT_CNUM                         1069
+#define IDC_STATIC_CALE                 1070
+#define IDC_STATIC_CTU                  1071
+#define BTN_ALTACL                      1072
+#define CT_APE1                         1073
+#define CT_APE2                         1074
+#define IDC_STATIC1a                    1075
+#define IDC_STATIC2a                    1076
+#define CMB_Select_Client               1078
+#define IDC_STATIC_clselect             1079
+#define CMB_Type                        1080
+#define IDC_STATIC_cmbsype              1082
+#define CMB_Select_Mec                  1083
+#define IDC_STATIC_mecselect            1084
+#define BTN_LEFT                        1086
+#define CT_HOURC                        1087
+#define BTN_RIGHT                       1088
+#define CT_DAY                          1089
+#define CT_MONTH                        1090
+#define ID_YEAR                         1091
+#define IDC_STATIC_hora                 1092
+#define IDC_EDIT6_Mes                   1093
+#define IDC_STATIC_dia                  1094
+#define IDC_STATIC_year                 1095
+#define BIT_SHOWCIT                     1096
+#define BTN_RegistrarCita               1097
+#define CT_HRS                          1098
+#define ST_MecInfo                      1099
+#define ID_LIST                         1100
+#define IDC_PRESENT1                    1101
+#define ID_SHOWCL                       1102
+#define ID_PRESENT2                     1103
+#define ID_SHOWMEC                      1104
+#define ID_MOTIVE                       1105
+#define ID_PRESENT3                     1106
+#define BIT_SHOWBITMAIN                 1107
+#define ID_PRESENT4                     1108
+#define ID_SHOWDATE                     1109
+#define BTN_ERASE                       1110
+#define IDC_BUTTON1                     1111
+#define BTN_MOD                         1111
+#define BTN_Logging                     2001
+#define BTN_NewUser                     2002
+#define ID_AltaServices                 40006
+#define ID_Salir                        40007
+#define ID_RegistroMecanicos            40008
+#define ID_CLIENTE                      40009
+#define ID_AltaCliente                  40010
+#define ID_RegistroCliente              40011
+#define ID_CITAS40012                   40012
+#define ID_RegistroCitas                40013
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        123
+#define _APS_NEXT_COMMAND_VALUE         40014
+#define _APS_NEXT_CONTROL_VALUE         1112
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

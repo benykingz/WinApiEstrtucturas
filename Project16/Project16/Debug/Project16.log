@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programas\project16\project16\source.cpp(294): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+d:\programas\project16\project16\source.cpp(299): warning C4018: '<': no coinciden signed/unsigned
+  Project16.vcxproj -> D:\Programas\Project16\Debug\Project16.exe
